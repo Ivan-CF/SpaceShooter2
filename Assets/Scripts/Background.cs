@@ -7,7 +7,7 @@ public class Background : MonoBehaviour {
     private Material mat;
     public float smooth = 1.0f;
     private float offsetX = 0.0f;
-
+    //
     private Vector2 textoffset;
 
     private float axisx;
