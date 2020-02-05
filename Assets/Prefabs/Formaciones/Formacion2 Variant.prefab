@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 1364021498455313812, guid: 35369fcfed45c2e42b2c1d1ba3e47c87,
         type: 3}
       propertyPath: m_Name
-      value: Formacion2
+      value: Formacion2 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8766591360828376989, guid: 35369fcfed45c2e42b2c1d1ba3e47c87,
         type: 3}
