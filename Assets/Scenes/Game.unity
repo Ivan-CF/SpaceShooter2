@@ -2338,6 +2338,11 @@ PrefabInstance:
       propertyPath: sm
       value: 
       objectReference: {fileID: 1871280746}
+    - target: {fileID: 5876149803709624039, guid: ba70019c977006c428a7958308e731ca,
+        type: 3}
+      propertyPath: scoreManager
+      value: 
+      objectReference: {fileID: 1871280746}
     - target: {fileID: 5876149803709624040, guid: ba70019c977006c428a7958308e731ca,
         type: 3}
       propertyPath: m_LocalPosition.x
